@@ -12,6 +12,4 @@ services:
     environment:
       WSPATH: argo
       UUID: 10974d1a-cbd6-4b6f-db1d-38d78b3fb109
-# NEZHA_KEY: vXzZLTaBU3oVO9pyM
-# NEZHA_SERVER: probe.nezha.org
-# NEZHA_PORT: 5555
+
